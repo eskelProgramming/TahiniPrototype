@@ -18,7 +18,27 @@ namespace TahiniPrototype.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Food()
+        {
+            return View();
+        }
+
+        public IActionResult Lodging()
+        {
+            return View();
+        }
+
+        public IActionResult ToDo()
+        {
+            return View();
+        }
+
+        public IActionResult Transportation()
+        {
+            return View();
+        }
+
+        public IActionResult FAQ()
         {
             return View();
         }
